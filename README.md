@@ -1,6 +1,8 @@
 # Food Marked DApp
 A basic marketplace dapp for the Celo blockchain.
 
+Try the online version [here](http://paxol.github.io/food-marked-dapp/).
+
 Boilerplate forked from [dacadeorg/celo-react-boilerplate](https://github.com/dacadeorg/celo-react-boilerplate).
 
 ## 1. Tech Stack
